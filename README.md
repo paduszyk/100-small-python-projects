@@ -13,5 +13,7 @@ Development of each project is presented within a separate branch. Look there if
 
 The final versions merged to `master`.
 
+1. [Bagels](src/projects/project_001_bagels/): A simple terminal-based deduction game in which the player tries to guess a random number (with no repeating digits).
+
 ## :pencil: License
 All the code from this repository is under [MIT license](LICENSE).
