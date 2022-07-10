@@ -12,6 +12,7 @@ This repository summarizes my individual studies on Python programming by means 
 Each project is presented within a separate branch. Look there if you want to see how some projects were growing. The final versions were nevertheless merged to `master`, so look for the optimized versions therein.
 
 1. [Bagels](src/projects/project_001_bagels/): A simple terminal-based deduction game in which the player tries to guess a random number (with no repeating digits).
+2. [Birthday paradox](src/projects/project_002_birthday_paradox/): Monte Carlo simulation of so-called *birthday problem*/*paradox* indicating that probability to find at least two persons with the same birthday as high as 50% requires a group which consists only of 23 people.
 
 ## :pencil: License
 The entire code from this repository is under [MIT license](LICENSE).
